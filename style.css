@@ -2487,6 +2487,11 @@ html {
     display: flex;
     position: relative;
   }
+
+  .thunder {
+    color: #1e1b1e;
+    font-size: 2vw;
+  }
   
   .project-image-wrapper {
     width: 100%;
@@ -2497,13 +2502,18 @@ html {
   .project-image {
     border: #44bb88;
     border-style: solid;
-    height: 25rem;
+    height: auto;
+    width: 50rem;
+    
     max-height: 50rem;
     border-radius: 30px;
     margin-top: -30;
     margin-bottom: 0;
+    position: relative;
   }
-  
+
+
+
   .project-button {
     border: #44bb88;
     border-style: solid;
@@ -3012,7 +3022,7 @@ html {
     flex-direction: column;
     display: flex;
   }
-  
+
   .paragraph-container {
     grid-column-gap: 1.25rem;
     grid-row-gap: 1.25rem;
@@ -3138,9 +3148,7 @@ html {
     display: flex;
   }
   
-  .thunder {
-    color: #1e1b1e;
-  }
+
   
   .licenses-wrapper {
     grid-column-gap: 1rem;
@@ -3467,9 +3475,7 @@ html {
       padding-bottom: 2rem;
     }
   
-    .project-image {
-      width: 100%;
-    }
+  
   
     .technologies {
       height: 7rem;
@@ -3785,10 +3791,7 @@ html {
       padding-bottom: 1rem;
     }
   
-    .project-image {
-      width: auto;
-      height: 20rem;
-    }
+  
   
     .technologies {
       height: 5rem;
