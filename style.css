@@ -2515,11 +2515,11 @@ html {
 
 
   .project-button {
-    border: #44bb88;
+    border: #1e1b1e;
     border-style: solid;
     width: 7vh;
     height: 7vh;
-    background-color: #1e1b1e;
+    background-color: rgba(68, 187, 135);
     border-radius: 100%;
     justify-content: center;
     align-items: center;
@@ -2536,6 +2536,8 @@ html {
   }
 
   .project-button:hover {
+    border: #4b8;
+    border-style:double;
     background-color: #4B8;
     color: #fff;
   }
