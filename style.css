@@ -1,7 +1,7 @@
 html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    font-family: sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     scroll-behavior: smooth;
   }
   
@@ -235,7 +235,7 @@ html {
     color: #333;
     background-color: #fff;
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14px;
     line-height: 20px;
   }
@@ -2100,7 +2100,7 @@ html {
   body {
     color: #333;
     background-color: #0f0f0f;
-    font-family: Roboto, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2rem;
     font-weight: 500;
     line-height: 120%;
@@ -2110,7 +2110,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 4rem;
     font-weight: 600;
     line-height: 120%;
@@ -2120,7 +2120,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 3rem;
     font-weight: 600;
     line-height: 120%;
@@ -2130,7 +2130,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2.5rem;
     font-weight: 600;
     line-height: 120%;
@@ -2140,7 +2140,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2rem;
     font-weight: 600;
     line-height: 120%;
@@ -2150,7 +2150,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.75rem;
     font-weight: 600;
     line-height: 120%;
@@ -2160,7 +2160,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 1.25rem;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.5rem;
     font-weight: 600;
     line-height: 120%;
